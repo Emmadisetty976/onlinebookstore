@@ -14,7 +14,7 @@ pipeline {
               	    echo "repo cloned successfully"  
             
 }
-stage("test1") {  
+stage("test2") {  
            	    steps {  
               	    echo "cloning repository" 
               	    echo "repo cloned successfully"  
