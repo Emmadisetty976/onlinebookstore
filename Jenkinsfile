@@ -8,7 +8,7 @@ pipeline {
               	    }  
          	    } 
         }
-		stage("online book store") {  
+		stage("online 1 book store") {  
            	    steps {  
               	    echo "cloning repository" 
               	    echo "repo cloned successfully"  
