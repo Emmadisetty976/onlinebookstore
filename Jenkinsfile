@@ -8,7 +8,7 @@ pipeline {
               	    }  
          	    } 
         }
-		stage("poll scm") {  
+		stage("online book store") {  
            	    steps {  
               	    echo "cloning repository" 
               	    echo "repo cloned successfully"  
